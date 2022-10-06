@@ -7,10 +7,11 @@ so the company can use the models to answer thier questions in an easier way tha
 
 The data modeling requirements have been provided as series of queries and this modeling has been done as "Query first approach" 
 
-# PROJECT DEVELOPMENT  AND SOLUTION 
+# SOLUTION AND ETL PIPELINE 
 The data for the project has been provided in CSV files  By Udacity. The developement and the final solution of the project are in 
-**project-1b-project-template.ipynb (file )**. Jupiter notebook has been used to complete the project in Udacity workspace 
+**project-1b-project-template.ipynb (file )**. Jupiter notebook has been used to complete the project in Udacity workspace  and the data files were used from within the workspace 
 ***
 # CREDIT AND REFERENCES 
 * This project is a requirement for a Nano degree program at Udacity and all project startup files and data have been provided by Udacity.com 
+* Much of the reference was made from within Udacity (including the course lectures and examples done by Instructor )
 
